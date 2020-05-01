@@ -8,4 +8,7 @@ public class TestService {
     public int findNum(){
         return 1+1;
     }
+    public String getByName(){
+        return "我叫张某某";
+    }
 }

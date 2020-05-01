@@ -13,5 +13,6 @@ public class App
         TestService ts =new TestService();
         System.out.println( "这是第一个和GitHub有关的项目" );
         System.out.println(ts.getMe());
+        System.out.println(ts.getByName());
     }
 }
